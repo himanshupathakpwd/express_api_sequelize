@@ -1,0 +1,13 @@
+{
+  "name": "express_api_sequelize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Himanshu Pathak",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.1",
+    "express-session": "^1.15.6",
+    "mysql2": "^1.4.2",
+    "sequelize": "^4.13.5"
+  }
+}
